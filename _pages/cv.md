@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 'CV'
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,35 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- B.Sc. in Computer Science, Université de Strasbourg, 2021
+  <!-- * M.Sc. in Jekyll, GitHub University, 2014 -->
+  <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Work experience
 
-Publications
-======
+- 03/2021 - 06/2021: Data Scientist Intern
+
+  - International Bank of Azerbaijan
+  - Duties included: Data preparation & cleaning using supervised and unsupervised ML models
+
+- 04/2021 - 06/2021: Deep Learning Intern
+  - A.L.I Technologies
+  - Duties included: Dataset preparation and image segmentation models
+  - Supervisor: Raphaël Gross
+
+# Skills
+
+- Artificial Neural Networks
+- Deep Learning
+- Deep Learning Frameworks
+  - TensorFlow
+  - Keras
+  - PyTorch
+- Data Structures & Algorithms
+- Programming Languages
+  - Python
+  - C / C++
+  - Java
+
+# Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
