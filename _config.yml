@@ -80,8 +80,8 @@ analytics:
 author:
   name: 'Yusif Ibrahimov'
   avatar: 'profile.png'
-  bio: 'ML Researcher (Hele olmaq isdiyir)'
-  location: 'Location'
+  bio: 'ML Researcher'
+  location: 'Baku, Azerbaijan'
   employer:
   pubmed: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
   googlescholar: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
@@ -101,7 +101,7 @@ author:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin:
-  orcid: 'http://orcid.org/yourorcidurl'
+  orcid: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
