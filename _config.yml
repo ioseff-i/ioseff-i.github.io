@@ -83,7 +83,7 @@ author:
   bio: 'Deep Learning Researcher, PhD Candidate at University of York'
   location: 'York, United Kingdom'
   employer:
-  pubmed: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+  #pubmed: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
   googlescholar: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
@@ -101,7 +101,7 @@ author:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin:
-  orcid: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+  orcid: 'https://orcid.org/0000-0001-7796-5909'
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
