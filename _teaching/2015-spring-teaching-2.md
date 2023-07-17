@@ -1,5 +1,5 @@
 ---
-title: "Software 2: Object Oriented Data Structures \& Algorithms - COM00016C"
+title: "Software 2: Object Oriented Data Structures and Algorithms - COM00016C"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
