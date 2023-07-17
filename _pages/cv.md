@@ -13,11 +13,21 @@ redirect_from:
 
 - B.Sc. in Computer Science, Université de Strasbourg, 2021
   <!-- * M.Sc. in Jekyll, GitHub University, 2014 -->
-  <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+- Ph.D in Computer Science, University of York, 2025 (expected)
 
 # Work experience
 
-- 03/2021 - 06/2021: Data Scientist Intern
+- 10/2023 - Present: Teaching Assistant
+
+  - University of York
+  - Duties included: Conducting Seminars and Lab Sessions, Exam Marking
+
+- 03/2022 - 08/2022: AI Project Lead
+
+  - C4IR Azerbaijan (WEF Affiliate in Azerbaijan)
+  - Duties included: Management of the AI projects for the public services and auditing AI readiness and maturity 
+
+- 03/2021 - 06/2021: Data Science Intern
 
   - International Bank of Azerbaijan
   - Duties included: Data preparation & cleaning using supervised and unsupervised ML models
