@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name: 'Yusif Ibrahimov'
-  avatar: 'profile.png'
+  avatar: #'profile.png'
   bio: 'Doctoral Researcher at University of York'
   location: 'York, United Kingdom'
   employer:

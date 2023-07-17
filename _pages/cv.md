@@ -11,9 +11,10 @@ redirect_from:
 
 # Education
 
-- B.Sc. in Computer Science, Université de Strasbourg, 2021
-  <!-- * M.Sc. in Jekyll, GitHub University, 2014 -->
 - Ph.D in Computer Science, University of York, 2025 (expected)
+
+- BSc Hons in Computer Science, French-Azerbaijani University, 2021
+  <!-- * M.Sc. in Jekyll, GitHub University, 2014 -->
 
 # Work experience
 
