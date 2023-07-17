@@ -80,12 +80,12 @@ analytics:
 author:
   name: 'Yusif Ibrahimov'
   avatar: 'profile.png'
-  bio: 'Deep Learning Researcher, PhD Candidate at University of York'
+  bio: 'Doctoral Researcher at University of York'
   location: 'York, United Kingdom'
   employer:
   #pubmed: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
-  googlescholar: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
-  email:
+  googlescholar: #'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+  email: 'yusif.ibrahimov@york.ac.uk'
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
+  linkedin: 'https://www.linkedin.com/in/yusif-ibrahimov-a152a9152/'
   orcid: 'https://orcid.org/0000-0001-7796-5909'
   pinterest:
   soundcloud:
