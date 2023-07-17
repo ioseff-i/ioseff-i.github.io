@@ -7,16 +7,8 @@ venue: "University of York, Department of Computer Science"
 date: 2022-10-21
 location: "York, United Kingdom"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Module aims
 ======
 
-Hello
+Students will be introduced to the key discrete mathematics concepts that are the foundation of computer science. Seven topics are covered as follows: i) counting (combinatorics), ii) discrete probability, iii) graphs, iv) propositional and predicate logic, v) proofs and sets, vi) relations on sets, and vii) relations on a single set. After studying the module, students will be able to apply the learnt concepts, theories and formulae in real-world examples of computational problems.
 
-Heading 2
-======
-
-Heading 3
-======
