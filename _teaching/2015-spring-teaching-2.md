@@ -1,7 +1,7 @@
 ---
 title: "Software 2: Object Oriented Data Structures & Algorithms - COM00016C"
 collection: teaching
-type: "type: "Undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of York, Department of Computer Science"
 date: 2023-01-01
