@@ -7,5 +7,5 @@ main:
     url: /teaching/
   - title: "Courses"
     url: /courses/
-  - title: "Other Resources"
-    url: /resources/
+#  - title: "Other Resources"
+#    url: /resources/
