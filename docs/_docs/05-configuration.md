@@ -1065,7 +1065,7 @@ pagination:
   enabled: true
   collection: 'posts'
   per_page: 5
-  permalink: '/page/:num/'  # Pages are index.html inside this folder (default)
+  permalink: '/page/:num/'  # Pages are index.md inside this folder (default)
   title: ':title - page :num'
   limit: 0
   sort_field: 'date'
@@ -1113,7 +1113,7 @@ pagination:
   # Internally this is set to html by default
   extension: html
 
-  # Optional, the default name of the index file for generated pages (e.g. 'index.html')
+  # Optional, the default name of the index file for generated pages (e.g. 'index.md')
   # Without file extension
   indexpage: 'index'
 ```

@@ -8,14 +8,14 @@ excerpt: "Introduction to Set Theory"
 
 
 
-# 🧮 Introduction to Set Theory
+# Introduction to Set Theory
 
 Set theory is a branch of mathematics that studies **sets**, which are collections of objects. These objects can be anything: numbers, symbols, or even other sets.  
 Set theory forms the **foundation of modern mathematics**, influencing logic, probability, statistics, and computer science.
 
 ---
 
-## 📘 Table of Contents
+## Table of Contents
 
 1. [Definition of a Set](#definition-of-a-set)
 2. [Set Notation](#set-notation)
@@ -29,7 +29,7 @@ Set theory forms the **foundation of modern mathematics**, influencing logic, pr
 
 ---
 
-## 📗 Definition of a Set
+## Definition of a Set
 
 A **set** is a *well-defined collection* of distinct elements or members.  
 Sets are usually represented by **curly braces `{}`**.
@@ -46,7 +46,7 @@ Here:
 
 ---
 
-## ✍️ Set Notation
+## Set Notation
 
 | Symbol | Meaning | Example |
 |---------|----------|----------|
@@ -61,7 +61,7 @@ Here:
 
 ---
 
-## 🧩 Types of Sets
+## Types of Sets
 
 1. **Empty Set (∅):** Contains no elements.  
    Example: `A = {}`
@@ -104,7 +104,7 @@ A = B ✅
 
 ---
 
-## ➕ Set Operations
+##  Set Operations
 
 ### 1. Union ( ∪ )
 Combines all elements from both sets.
@@ -145,24 +145,7 @@ A′ = {x | x ∈ U and x ∉ A}
 
 ---
 
-## 🔵 Venn Diagrams
-
-Venn diagrams visually represent relationships between sets.
-
-Example (A and B):
-```
-        ________
-       /   A ∩ B  \
-      / A       B  \
-     /______________\
-```
-- Overlapping area = A ∩ B  
-- Combined area = A ∪ B  
-- Outside both = (A ∪ B)'
-
----
-
-## ⚙️ Laws of Set Theory
+## Laws of Set Theory
 
 | Law | Formula | Description |
 |------|----------|-------------|
@@ -176,7 +159,7 @@ Example (A and B):
 
 ---
 
-## 💡 Practical Applications
+## Practical Applications
 
 - **Database systems:** Querying and combining datasets.
 - **Probability:** Events are treated as sets.
@@ -194,7 +177,7 @@ print(A - B)  # Difference
 
 ---
 
-## 📊 Summary Table
+## Summary Table
 
 | Concept | Symbol | Example | Result |
 |----------|---------|----------|--------|
@@ -206,6 +189,8 @@ print(A - B)  # Difference
 
 ---
 
-**Author:** *Set Theory Reference Guide*  
-**License:** MIT  
-**Created:** November 2025
+[//]: # (**Author:** *Set Theory Reference Guide*  )
+
+[//]: # (**License:** MIT  )
+
+[//]: # (**Created:** November 2025)
