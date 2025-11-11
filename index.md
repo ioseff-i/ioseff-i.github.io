@@ -25,7 +25,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-I am a **Lecturer and Researcher** at the **CSRD** (Computer Science Research Department) at the **French-Azerbaijani University (UFAZ)**.
+I am an **Assistant Professor** at the **CSRD** (Computer Science Research Department) at the **French-Azerbaijani University (UFAZ)**.
 
 My research focuses on **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Explainable AI (XAI)**,**Causality and Reasoning**,**Knowledge Representation and Ontology**, and the **trustworthiness, safety, and ethics** of intelligent systems.
 
