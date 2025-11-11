@@ -21,7 +21,7 @@ title                    : "Yusif Ibrahimov, PhD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yusif Ibrahimov, PhD"
-description              : "Lecturer and Researcher at French-Azerbaijani University, CSRD"
+description              : "Assistant Professor at French-Azerbaijani University, CSRD"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
 #  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Lecturer and Researcher at French-Azerbaijani University, CSRD"
+  bio              : "Assistant Professor at French-Azerbaijani University, Computer Science Research Department (CSRD)"
   location         : "Baku, Azerbaijan | York, UK"
   email            :
   links:
