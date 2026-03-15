@@ -19,9 +19,14 @@ feature_row:
     btn_label: "View Courses"
     btn_class: "btn--primary"
   - title: "Courses"
-    excerpt: "Lessons,Explanations,Tutorials"
+    excerpt: "Lessons, Explanations, Tutorials"
     url: "/courses/"
     btn_label: "Browse Courses"
+    btn_class: "btn--primary"
+  - title: "Blog"
+    excerpt: "Thoughts, Updates, and Articles"
+    url: "/blog/"
+    btn_label: "Read Blog"
     btn_class: "btn--primary"
 ---
 
@@ -36,4 +41,3 @@ My research focuses on **Artificial Intelligence**, **Machine Learning**, **Deep
 [<i class="ai ai-orcid ai-2x"></i> ORCID iD](https://orcid.org/0000-0001-7796-5909)
 
 {% include feature_row %}
-
