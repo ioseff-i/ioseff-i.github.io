@@ -8,5 +8,5 @@ author_profile: true
 ## Topics
 
 - [Introduction to Causality](/blog/causality/)
-- [Introduction to Parallelism](/blog/par_prog/)
+- [Introduction to Parallelism](/blog/parallel-programming/)
 - [Linear Algebra & Graphs](/blog/linear-algebra-and-graphs/)

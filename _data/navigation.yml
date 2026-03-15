@@ -13,6 +13,6 @@ main:
       - title: "Causality"
         url: /blog/causality/
       - title: "Parallelism"
-        url: /blog/par_prog/
+        url: /blog/parallel-programming/
       - title: "Linear Algebra & Graphs"
         url: /blog/linear-algebra-and-graphs/
